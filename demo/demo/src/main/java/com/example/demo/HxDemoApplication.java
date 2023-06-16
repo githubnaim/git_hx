@@ -8,6 +8,7 @@ public class HxDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HxDemoApplication.class, args);
+		//hello word
 	}
 
 }
